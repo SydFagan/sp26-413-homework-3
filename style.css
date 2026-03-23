@@ -1,0 +1,55 @@
+/*
+Theme Name: Metro Child Theme
+Author: Sydney Fagan
+Version: 1.0
+Template: sf-metro-theme
+Description: Child theme forthe parent metro theme with custom layouts.
+*/
+body{
+    background:#eef1f5;
+}
+
+.article{
+    max-width:800px;
+    margin:40px auto;
+    background:white;
+    padding:50px;
+    border-radius:8px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+
+.author-box{
+    margin-top:40px;
+    padding:20px;
+    background:#f7f7f7;
+    border-left:4px solid #000;
+}
+
+.related-posts{
+    margin-top:50px;
+}
+
+.related-posts h3{
+    margin-bottom:15px;
+}
+
+.related-posts a{
+    display:block;
+    margin-bottom:8px;
+    font-weight:bold;
+}
+
+.page-custom{
+    max-width:900px;
+    margin:50px auto;
+    background:white;
+    padding:50px;
+    border-radius:8px;
+}
+
+.child-sidebar{
+    margin-top:50px;
+    padding:20px;
+    background:white;
+    border-radius:6px;
+}
