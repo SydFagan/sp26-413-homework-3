@@ -7,7 +7,7 @@ A child theme is a theme that inherits from a parent themee and allows developer
 
 ### **Template Hierarchy**
 
-The template hierarchy is how WordPress decides which file to use when showing content. It looks for the Top template first and moves down to the general ones. When using a child theme, WordPress will check the child theme before the parent theme. In this project, the `single.php` and `page.php` files were added to the child theme, so they'll override the parent version.
+The template hierarchy is how WordPress decides which file to use when showing content. It looks for the Top template first and moves down to the general ones. When using a child theme, WordPress will check the child theme before the parent theme. In this project, the single.php and page.php files were added to the child theme, so they'll override the parent version.
 
 ### **Real-World Reflection**
 
